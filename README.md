@@ -1,30 +1,46 @@
-# CFX-Bypass
+# 🌟 FiveM Permanent Spoofer
 
-**For the people who are having problems.**  
+## 📜 Project Overview
 
-Most likely not going to personally help you but you can ask other users about it here.
+The FiveM Permanent Spoofer is designed to provide a safe gaming experience on the FiveM platform. This tool helps users optimize their gameplay while protecting them from bans and cheats.
 
-https://discord.gg/bzfWPSsDfR
+### 🔧 Features
 
-**What's the purpose of this?**
+- **🔒 Permanent Spoofing:** Effectively hide your identity to prevent bans.
+- **🚫 Unlock All Ban Methods:** Bypass all known ban methods.
+- **🖥️ User-Friendly Interface:** Quick and effective experience with an intuitive design.
+- **🔄 Regular Updates:** Stay secure with continuous updates and improvements.
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+## 🔔 Updates
 
-**How to use:**
-1. Clean Traces
-2. Enable Bypass
-3. Log in to new rockstar account without ban. The account must be unused, because fivem is banning the new accounts if your opening it without the bypass with hwid banned computer.
-4. Try joining server if it returns error, then disable the bypass and try joining the server. 
-5. NOTE: Don't ever open FiveM without the bypass. Otherwise they will ban your new rockstar account for using it in hwid banned computer.
-6. IMPORTANT: Enable the bypass before u leave server so "Destroy" call won't be sent to fivem when you leave server. It contains your hwid + ROS
+For the latest updates and features, join our [Smoke Cheats Discord](https://discord.gg/smokecats) community.
 
-**Current status?**
+## 📅 Patch Notes
 
-Seems to be working 14.02.2024
+### Version 1.0.0
+- Initial release of the FiveM Permanent Spoofer.
+- Implemented permanent spoofing feature.
+- Bypassed common ban methods ALL BANS (TX, FG, CFX etc.).
+- User-friendly interface introduced.
 
+### Version 1.1.0
+- Improved stability and performance.
+- Added support for new ban methods.
+- Enhanced user interface for better navigation.
 
+### Version 1.2.0
+- Fixed bugs reported by users.
+- Added real-time monitoring for improved spoofing effectiveness.
+- Optimized code for faster execution.
 
+## 🤝 Support
 
+If you encounter any issues, please contact us for assistance. We are here to help you with any questions or concerns.
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+## 📄 License
 
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
+
+---
+
+**⚠️ Note:** This software is for sale. Users are responsible for any consequences arising from its use.
